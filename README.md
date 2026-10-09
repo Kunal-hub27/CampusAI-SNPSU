@@ -54,26 +54,6 @@ prompt-war/
     └── weather.test.js
 ```
 
----
-
-## 🌐 Deploying to Production
-
-This project is optimized for 1-click deployment on static hosting providers:
-
-### Option A: Vercel
-1. Connect this GitHub repository to [Vercel](https://vercel.com).
-2. The included `vercel.json` will automatically enforce security headers and route clean URLs.
-
-### Option B: Netlify
-1. Connect this GitHub repository to [Netlify](https://netlify.com).
-2. The included `netlify.toml` automatically configures `npm run validate` as the build command and sets static headers.
-
-### Option C: GitHub Pages
-1. In your GitHub repository settings, go to **Pages**.
-2. Select the `main` branch and `/ (root)` folder.
-3. Save to publish instantly.
-
----
 
 ## ✨ Enterprise Quality Parameters
 
@@ -87,7 +67,3 @@ This project is optimized for 1-click deployment on static hosting providers:
 
 ---
 
-## 📜 License & Accreditation
-
-- **Institution**: Sapthagiri NPS University, #14/5, Hesaraghatta Main Road, Chikkasandra, Jalahalli West, Bengaluru, Karnataka 560057.
-- **License**: MIT
